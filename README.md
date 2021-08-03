@@ -1,4 +1,4 @@
-###An example of how to arbitrarily rename topics being replicated to in MM2
+### An example of how to arbitrarily rename topics being replicated to in MM2
 
 1. Ensure the `mirror-connect-client` version matches that of the Mirror Maker 2 installation
 2. Build the JAR
